@@ -1,0 +1,27 @@
+#header {
+    text-align: center;
+    margin: 10px 0px;
+    padding: 10px;
+    box-shadow: 1px 1px 1px 1px lightgray;
+}
+
+
+#form div{
+    padding: 5px 15px;
+}
+
+#form div .btn {
+    margin: 0 30px;
+}
+
+.container {
+    
+    border-radius: 5px;
+    box-shadow:  1px 1px 1px 1px lightgray;
+
+}
+/* 
+#form #submit-btn {
+    display: block;
+    padding: 0 auto;
+} */
